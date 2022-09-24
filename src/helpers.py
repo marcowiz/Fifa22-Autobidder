@@ -100,8 +100,8 @@ def create_driver():
     use_undetected_chromedriver = True
     if use_undetected_chromedriver:
         options = uc.ChromeOptions()
-
-        options.add_argument('--profile-directory=Profile 8')
+        options.add_argument(r"--user-data-dir=C:\Users\marco\AppData\Local\Google\Chrome\User Datapro") #e.g. C:\Users\You\AppData\Local\Google\Chrome\User Data
+        options.add_argument('--profile-directory=Profile 1')
         options.add_argument('--disable-popup-blocking')  # allow for new tab
         # options.add_extension("adblocker/uBlock-Origin.crx")
 
@@ -157,7 +157,7 @@ def setup_adblock(driver):
 
             driver.switch_to.window(driver.window_handles[0])
 
-    sleep(14)
+    sleep(1)
     # installing = True
     # infiniteCounter = 0
     # while installing:

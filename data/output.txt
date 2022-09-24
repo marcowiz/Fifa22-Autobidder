@@ -2,3 +2,45 @@
 [03:31:19 PM]  - - - - Bot started - - - - 
 [03:31:29 PM] Successfully updated Futbin filters
 [10:06:35 AM]  - - - - Bot started - - - - 
+[07:05:05 PM]  - - - - Bot started - - - - 
+[07:10:34 PM]  - - - - Bot started - - - - 
+[07:11:25 PM] Autobidder started
+[07:11:55 PM] Autobidder started
+[07:13:59 PM] NEXTPAGE ERROR - hitting back and restarting search
+[07:13:59 PM] Time cutoff exceeded - researching
+[07:18:08 PM]  - - - - Bot started - - - - 
+[07:22:05 PM]  - - - - Bot started - - - - 
+[07:22:26 PM] Autobidder started
+[07:22:26 PM] User error: user not on the 'Search the Transfer Market' page 
+[07:22:26 PM] Read the instructions on the GitHub repo
+[07:22:26 PM] Bot stopped
+[07:22:44 PM] Autobidder started
+[07:23:11 PM] Autobidder started
+[07:23:44 PM] Autobidder started
+[07:26:12 PM] NEXTPAGE ERROR - hitting back and restarting search
+[07:26:12 PM] Time cutoff exceeded - researching
+[07:29:39 PM] NEXTPAGE ERROR - hitting back and restarting search
+[07:29:39 PM] Time cutoff exceeded - researching
+[07:30:51 PM] Made over 50 requests, stopping, keepgoing = False
+[07:30:51 PM] Total Bids made: 0 Requests: 51
+[07:30:51 PM] Margin: 100
+[07:31:03 PM] Players sold: 0
+[07:31:03 PM] Players expired: 0
+[07:31:03 PM] Players currently listed: 7
+[07:31:03 PM] Players unlisted: 5
+[07:31:10 PM] Going to watchlist
+[07:31:46 PM] LOST PID: 85838282873880 NAME: Fekir SOLDPRICE: 11500 POSITION: CAM
+[07:31:46 PM] Cleared expired
+[07:31:49 PM] Players won: 0 expired: 0
+[07:31:49 PM] - - - - STATISTICS ROUND 1- - -
+[07:31:49 PM] Bids Made: 0 | Requests Made: 51
+[07:31:49 PM] Players won: 0 | Lost: 0
+[07:31:49 PM] Projected profit: 0 | Prof per player: 0
+[07:31:49 PM]  - - - - - - - - - - - -
+[07:31:55 PM] Finished bidround 0
+[07:31:55 PM] 
+[07:31:58 PM] Bot stopped
+[07:36:44 PM] Autobidder started
+[07:37:26 PM] Autobidder started
+[07:41:08 PM] NEXTPAGE ERROR - hitting back and restarting search
+[07:41:11 PM] Time cutoff exceeded - researching
