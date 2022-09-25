@@ -44,3 +44,60 @@
 [07:37:26 PM] Autobidder started
 [07:41:08 PM] NEXTPAGE ERROR - hitting back and restarting search
 [07:41:11 PM] Time cutoff exceeded - researching
+[07:44:18 PM] Made over 50 requests, stopping, keepgoing = False
+[07:44:18 PM] Total Bids made: 0 Requests: 51
+[07:44:18 PM] Margin: 100
+[07:44:30 PM] Players sold: 0
+[07:44:30 PM] Players expired: 7
+[07:44:30 PM] Players currently listed: 0
+[07:44:30 PM] Players unlisted: 6
+[07:44:39 PM] RELIST PID: 82827574797780 NAME: Gosens RELISTPRICE: 1400 POSITION: LWB
+[07:44:45 PM] RELIST PID: 82827574797780 NAME: Gosens RELISTPRICE: 1400 POSITION: LWB
+[07:46:00 PM] Going to watchlist
+[07:46:36 PM] Players won: 0 expired: 0
+[07:46:36 PM] - - - - STATISTICS ROUND 1- - -
+[07:46:36 PM] Bids Made: 0 | Requests Made: 51
+[07:46:36 PM] Players won: 0 | Lost: 0
+[07:46:36 PM] Projected profit: 0 | Prof per player: 0
+[07:46:36 PM]  - - - - - - - - - - - -
+[07:46:42 PM] Finished bidround 0
+[07:46:42 PM] 
+[07:46:48 PM] Bot stopped
+[08:04:03 PM]  - - - - Bot started - - - - 
+[08:05:06 PM] Autobidder started
+[08:05:06 PM] Fetching futbin prices (new version)... 
+[08:12:42 PM]  - - - - Bot started - - - - 
+[08:13:06 PM] Autobidder started
+[08:13:06 PM] User error: user not on the 'Search the Transfer Market' page 
+[08:13:06 PM] Read the instructions on the GitHub repo
+[08:13:06 PM] Bot stopped
+[08:13:15 PM] Autobidder started
+[08:14:00 PM] Autobidder started
+[08:14:21 PM] Autobidder started
+[08:15:12 PM] Logging in...
+[08:15:33 PM] Continue login manually
+[08:16:34 PM] Autobidder started
+[08:17:28 PM]  - - - - Bot started - - - - 
+[08:17:49 PM] Autobidder started
+[08:17:49 PM] User error: user not on the 'Search the Transfer Market' page 
+[08:17:49 PM] Read the instructions on the GitHub repo
+[08:17:49 PM] Bot stopped
+[08:17:58 PM] Autobidder started
+[08:17:58 PM] User error: user not on the 'Search the Transfer Market' page 
+[08:17:58 PM] Read the instructions on the GitHub repo
+[08:17:58 PM] Bot stopped
+[08:49:15 PM]  - - - - Bot started - - - - 
+[01:18:22 PM]  - - - - Bot started - - - - 
+[01:19:13 PM] Autobidder started
+[01:19:13 PM] User error: user not on the 'Search the Transfer Market' page 
+[01:19:13 PM] Read the instructions on the GitHub repo
+[01:19:13 PM] Bot stopped
+[01:21:20 PM]  - - - - Bot started - - - - 
+[01:21:54 PM] Autobidder started
+[01:21:54 PM] Fetching futbin prices (new version)... 
+[01:29:57 PM]  - - - - Bot started - - - - 
+[01:30:36 PM] Autobidder started
+[01:30:36 PM] Fetching futbin prices (new version)... 
+[01:34:58 PM]  - - - - Bot started - - - - 
+[01:35:37 PM] Autobidder started
+[01:35:37 PM] Fetching futbin prices (new version)... 

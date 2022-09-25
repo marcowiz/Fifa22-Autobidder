@@ -739,7 +739,7 @@ class Autobidder:
 
         # Enter min bin and max bin
         self.send_keys_and_more(
-            "/html/body/main/section/section/div[2]/div/div[2]/div/div[1]/div[2]/div[5]/div[2]/input", "4900")
+            "/html/body/main/section/section/div[2]/div/div[2]/div/div[1]/div[2]/div[5]/div[2]/input", "200") #was4900
         self.send_keys_and_more(
             "/html/body/main/section/section/div[2]/div/div[2]/div/div[1]/div[2]/div[6]/div[2]/input", "5000")
 
@@ -936,7 +936,7 @@ class Autobidder:
         second = url[37:len_url]
 
         self.sleep_approx(3)
-        self.change_futbin_platform()
+        #self.change_futbin_platform()
         self.sleep_approx(3)
 
         # Iterate over page results
@@ -975,7 +975,7 @@ class Autobidder:
     def change_futbin_platform(self):
         myElem = WebDriverWait(self.driver, 10).until(
             EC.presence_of_element_located((By.ID, 'platform_switch')))
-
+        
         menu = self.driver.find_element(By.ID, "platform_switch")
         hidden_submenu_ps = self.driver.find_element_by_xpath(
             "/html/body/header/nav/div/div/ul[2]/li[4]/div/ul/li[1]/a")
