@@ -830,8 +830,7 @@ class Autobidder:
             self.hasExceededTimeCutoff = True
 
     def fetch_player_data(self):
-        self.wait_for_visibility(
-            "/html/body/div[9]/div[2]/div[5]/div[3]/table/tbody")
+        #self.wait_for_visibility("/html/body/div[9]/div[2]/div[5]/div[3]/table/tbody")
         tbody = self.driver.find_element(By.CSS_SELECTOR, '#repTb > tbody')
         stats = tbody.find_elements(By.XPATH, './tr')
 
@@ -895,8 +894,8 @@ class Autobidder:
             index += 1
 
     def check_for_results(self):
-        tbody = self.driver.find_element_by_xpath(
-            "/html/body/div[9]/div[2]/div[5]/div[3]/table/tbody")
+        tbody = self.driver.find_element(By.CSS_SELECTOR, '#repTb > tbody')
+        #tbody = self.driver.find_element_by_xpath("/html/body/div[9]/div[2]/div[5]/div[3]/table/tbody")
         stats = tbody.find_elements(By.XPATH, './tr')
 
         for row in stats:
@@ -1414,10 +1413,7 @@ class Autobidder:
         """
         Detects loading circle and waits for it to dissappear. 
         """
-        WebDriverWait(self.driver, 10).until(
-            EC.visibility_of_element_located(
-                (By.XPATH, xpath))
-        )
+        WebDriverWait(self.driver, 10).until(EC.visibility_of_element_located((By.XPATH, xpath)))
 
     def getTargetListIDS(self):
         players = []

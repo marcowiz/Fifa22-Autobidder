@@ -101,3 +101,67 @@
 [01:34:58 PM]  - - - - Bot started - - - - 
 [01:35:37 PM] Autobidder started
 [01:35:37 PM] Fetching futbin prices (new version)... 
+[01:51:02 PM]  - - - - Bot started - - - - 
+[01:51:26 PM] Autobidder started
+[01:51:26 PM] User error: user not on the 'Search the Transfer Market' page 
+[01:51:26 PM] Read the instructions on the GitHub repo
+[01:51:26 PM] Bot stopped
+[01:51:35 PM] Autobidder started
+[01:51:35 PM] Fetching futbin prices (new version)... 
+[02:01:57 PM]  - - - - Bot started - - - - 
+[02:02:15 PM] Autobidder started
+[02:02:15 PM] Fetching futbin prices (new version)... 
+[02:03:33 PM]  - - - - Bot started - - - - 
+[02:03:51 PM] Autobidder started
+[02:03:51 PM] Fetching futbin prices (new version)... 
+[02:11:38 PM]  - - - - Bot started - - - - 
+[02:19:52 PM] Autobidder started
+[02:19:52 PM] Fetching futbin prices (new version)... 
+[02:40:28 PM]  - - - - Bot started - - - - 
+[02:40:52 PM] Autobidder started
+[02:40:52 PM] Fetching futbin prices (new version)... 
+[03:12:07 PM]  - - - - Bot started - - - - 
+[03:12:46 PM] Autobidder started
+[03:12:46 PM] Fetching futbin prices (new version)... 
+[03:49:09 PM]  - - - - Bot started - - - - 
+[03:50:18 PM] Autobidder started
+[03:50:18 PM] Fetching futbin prices (new version)... 
+[03:51:42 PM]  - - - - Bot started - - - - 
+[03:52:06 PM] Autobidder started
+[03:52:06 PM] Fetching futbin prices (new version)... 
+[03:54:40 PM]  - - - - Bot started - - - - 
+[03:55:04 PM] Autobidder started
+[03:55:04 PM] Fetching futbin prices (new version)... 
+[03:55:28 PM] No results box, should close out the tab now
+[03:55:28 PM] Finished fetching futbin prices, hopefully it worked - check targetplayers.txt
+[03:57:10 PM] Autobidder started
+[04:00:27 PM]  - - - - Bot started - - - - 
+[04:01:03 PM] Autobidder started
+[04:01:03 PM] Fetching futbin prices (new version)... 
+[04:01:30 PM] No results box, should close out the tab now
+[04:01:30 PM] Finished fetching futbin prices, hopefully it worked - check targetplayers.txt
+[04:09:32 PM]  - - - - Bot started - - - - 
+[04:10:02 PM] Autobidder started
+[04:10:02 PM] Fetching futbin prices (new version)... 
+[04:11:00 PM] No results box, should close out the tab now
+[04:11:00 PM] Finished fetching futbin prices, hopefully it worked - check targetplayers.txt
+[04:17:37 PM] Made over 50 requests, stopping, keepgoing = False
+[04:17:37 PM] Total Bids made: 0 Requests: 51
+[04:17:37 PM] Margin: 200
+[04:17:49 PM] Players sold: 0
+[04:17:49 PM] Players expired: 5
+[04:17:49 PM] Players currently listed: 0
+[04:17:49 PM] Players unlisted: 4
+[04:20:19 PM] Going to watchlist
+[04:20:58 PM] Players won: 1 expired: 0
+[04:20:58 PM] - - - - STATISTICS ROUND 1- - -
+[04:20:58 PM] Bids Made: 0 | Requests Made: 51
+[04:20:58 PM] Players won: 1 | Lost: 0
+[04:20:58 PM] Projected profit: 0 | Prof per player: 0
+[04:20:58 PM]  - - - - - - - - - - - -
+[04:21:01 PM] Finished bidround 0
+[04:21:01 PM] 
+[04:21:07 PM] Sleeping for 1
+[04:21:07 PM] Fetching futbin prices (new version)... 
+[04:22:01 PM] No results box, should close out the tab now
+[04:22:01 PM] Finished fetching futbin prices, hopefully it worked - check targetplayers.txt
