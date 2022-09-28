@@ -165,3 +165,671 @@
 [04:21:07 PM] Fetching futbin prices (new version)... 
 [04:22:01 PM] No results box, should close out the tab now
 [04:22:01 PM] Finished fetching futbin prices, hopefully it worked - check targetplayers.txt
+[04:28:44 PM] Made over 50 requests, stopping, keepgoing = False
+[04:28:44 PM] Total Bids made: 0 Requests: 51
+[04:28:44 PM] Margin: 200
+[04:28:53 PM] Players sold: 0
+[04:28:53 PM] Players expired: 5
+[04:28:53 PM] Players currently listed: 0
+[04:28:53 PM] Players unlisted: 4
+[04:31:24 PM] Going to watchlist
+[04:32:03 PM] Players won: 1 expired: 0
+[04:32:03 PM] - - - - STATISTICS ROUND 2- - -
+[04:32:03 PM] Bids Made: 0 | Requests Made: 51
+[04:32:03 PM] Players won: 1 | Lost: 0
+[04:32:03 PM] Projected profit: 0 | Prof per player: 0
+[04:32:03 PM]  - - - - - - - - - - - -
+[04:32:06 PM] Finished bidround 1
+[04:32:06 PM] 
+[04:32:09 PM] Sleeping for 1
+[04:32:09 PM] Fetching futbin prices (new version)... 
+[04:33:06 PM] No results box, should close out the tab now
+[04:33:06 PM] Finished fetching futbin prices, hopefully it worked - check targetplayers.txt
+[04:35:04 PM] Autobidder started
+[04:35:04 PM] Fetching futbin prices (new version)... 
+[04:36:01 PM] No results box, should close out the tab now
+[04:36:01 PM] Finished fetching futbin prices, hopefully it worked - check targetplayers.txt
+[04:42:38 PM] Made over 50 requests, stopping, keepgoing = False
+[04:42:38 PM] Total Bids made: 0 Requests: 51
+[04:42:38 PM] Margin: 100
+[04:42:50 PM] Players sold: 0
+[04:42:50 PM] Players expired: 5
+[04:42:50 PM] Players currently listed: 1
+[04:42:50 PM] Players unlisted: 4
+[04:45:03 PM] Going to watchlist
+[04:45:42 PM] Players won: 0 expired: 0
+[04:45:42 PM] - - - - STATISTICS ROUND 1- - -
+[04:45:42 PM] Bids Made: 0 | Requests Made: 51
+[04:45:42 PM] Players won: 0 | Lost: 0
+[04:45:42 PM] Projected profit: 0 | Prof per player: 0
+[04:45:42 PM]  - - - - - - - - - - - -
+[04:45:45 PM] Finished bidround 0
+[04:45:45 PM] 
+[04:45:48 PM] Sleeping for 1
+[04:45:51 PM] Fetching futbin prices (new version)... 
+[04:46:45 PM] No results box, should close out the tab now
+[04:46:45 PM] Finished fetching futbin prices, hopefully it worked - check targetplayers.txt
+[04:55:30 PM]  - - - - Bot started - - - - 
+[04:56:00 PM] Autobidder started
+[04:56:00 PM] Fetching futbin prices (new version)... 
+[04:56:57 PM] No results box, should close out the tab now
+[04:56:57 PM] Finished fetching futbin prices, hopefully it worked - check targetplayers.txt
+[04:59:57 PM] BID 2: Gigliotti - CurBid: 800 -> Bid to make: 850 -> Sell price 1000 -> Minus EA tax: 950 -> Est. Profit: 100
+[05:03:34 PM] Red popup (all good): bid status changed, auction data will be upddated
+[05:03:49 PM] Made over 50 requests, stopping, keepgoing = False
+[05:03:49 PM] Total Bids made: 1 Requests: 51
+[05:03:49 PM] Margin: 100
+[05:04:01 PM] Players sold: 0
+[05:04:01 PM] Players expired: 0
+[05:04:01 PM] Players currently listed: 6
+[05:04:01 PM] Players unlisted: 3
+[05:04:07 PM] Going to watchlist
+[05:04:43 PM] Players won: 1 expired: 0
+[05:04:43 PM] - - - - STATISTICS ROUND 1- - -
+[05:04:43 PM] Bids Made: 1 | Requests Made: 51
+[05:04:43 PM] Players won: 1 | Lost: 0
+[05:04:43 PM] Projected profit: 0 | Prof per player: 0
+[05:04:43 PM]  - - - - - - - - - - - -
+[05:04:46 PM] Finished bidround 0
+[05:04:46 PM] 
+[05:04:52 PM] Sleeping for 1
+[05:04:52 PM] Fetching futbin prices (new version)... 
+[05:05:49 PM] No results box, should close out the tab now
+[05:05:49 PM] Finished fetching futbin prices, hopefully it worked - check targetplayers.txt
+[05:12:33 PM] Made over 50 requests, stopping, keepgoing = False
+[05:12:33 PM] Total Bids made: 0 Requests: 51
+[05:12:33 PM] Margin: 100
+[05:12:42 PM] Players sold: 0
+[05:12:42 PM] Players expired: 0
+[05:12:42 PM] Players currently listed: 7
+[05:12:42 PM] Players unlisted: 3
+[05:12:48 PM] Going to watchlist
+[05:13:27 PM] Players won: 0 expired: 0
+[05:13:27 PM] - - - - STATISTICS ROUND 2- - -
+[05:13:27 PM] Bids Made: 0 | Requests Made: 51
+[05:13:27 PM] Players won: 0 | Lost: 0
+[05:13:27 PM] Projected profit: 0 | Prof per player: 0
+[05:13:27 PM]  - - - - - - - - - - - -
+[05:13:30 PM] Finished bidround 1
+[05:13:30 PM] 
+[05:13:33 PM] Sleeping for 1
+[05:13:36 PM] Fetching futbin prices (new version)... 
+[05:14:33 PM] No results box, should close out the tab now
+[05:14:33 PM] Finished fetching futbin prices, hopefully it worked - check targetplayers.txt
+[05:21:13 PM] Made over 50 requests, stopping, keepgoing = False
+[05:21:13 PM] Total Bids made: 0 Requests: 51
+[05:21:13 PM] Margin: 100
+[05:21:25 PM] Players sold: 0
+[05:21:25 PM] Players expired: 0
+[05:21:25 PM] Players currently listed: 7
+[05:21:25 PM] Players unlisted: 3
+[05:21:31 PM] Going to watchlist
+[05:22:07 PM] Players won: 0 expired: 0
+[05:22:10 PM] - - - - STATISTICS ROUND 3- - -
+[05:22:10 PM] Bids Made: 0 | Requests Made: 51
+[05:22:10 PM] Players won: 0 | Lost: 0
+[05:22:10 PM] Projected profit: 0 | Prof per player: 0
+[05:22:10 PM]  - - - - - - - - - - - -
+[05:22:13 PM] Finished bidround 2
+[05:22:13 PM] 
+[05:22:22 PM] Sleeping for 1
+[05:22:22 PM] Fetching futbin prices (new version)... 
+[05:23:17 PM] No results box, should close out the tab now
+[05:23:17 PM] Finished fetching futbin prices, hopefully it worked - check targetplayers.txt
+[05:26:52 PM]  - - - - Bot started - - - - 
+[05:27:34 PM] Autobidder started
+[05:27:34 PM] Fetching futbin prices (new version)... 
+[05:32:26 PM] No results box, should close out the tab now
+[05:32:26 PM] Finished fetching futbin prices, hopefully it worked - check targetplayers.txt
+[05:32:50 PM] BID 2: Meram - CurBid: 550 -> Bid to make: 650 -> Sell price 1000 -> Minus EA tax: 950 -> Est. Profit: 300
+[05:33:20 PM] BID 3: Costache - CurBid: 350 -> Bid to make: 500 -> Sell price 850 -> Minus EA tax: 807 -> Est. Profit: 307
+[05:34:05 PM] BID 4: Grandsir - CurBid: 850 -> Bid to make: 1000 -> Sell price 1400 -> Minus EA tax: 1330 -> Est. Profit: 330
+[05:34:35 PM] BID 5: Pich - CurBid: 500 -> Bid to make: 650 -> Sell price 1000 -> Minus EA tax: 950 -> Est. Profit: 300
+[05:34:50 PM] BID 6: Henen - CurBid: 400 -> Bid to make: 650 -> Sell price 1000 -> Minus EA tax: 950 -> Est. Profit: 300
+[05:35:26 PM] BID 7: Saito - CurBid: 300 -> Bid to make: 1100 -> Sell price 1500 -> Minus EA tax: 1425 -> Est. Profit: 325
+[05:35:56 PM] BID 8: Wenderson - CurBid: 600 -> Bid to make: 650 -> Sell price 1000 -> Minus EA tax: 950 -> Est. Profit: 300
+[05:36:08 PM] BID 9: Bøving - CurBid: 500 -> Bid to make: 700 -> Sell price 1100 -> Minus EA tax: 1045 -> Est. Profit: 345
+[05:36:29 PM] BID 10: Tella - CurBid: 1100 -> Bid to make: 1400 -> Sell price 1800 -> Minus EA tax: 1710 -> Est. Profit: 310
+[05:37:23 PM] BID 11: Zalewski - CurBid: 950 -> Bid to make: 1400 -> Sell price 1800 -> Minus EA tax: 1710 -> Est. Profit: 310
+[05:37:36 PM] BID 12: Ramizi - CurBid: 300 -> Bid to make: 650 -> Sell price 1000 -> Minus EA tax: 950 -> Est. Profit: 300
+[05:38:03 PM] Red popup (all good): failed bid - item removed from transfer targets - all good
+[05:38:15 PM] BID 13: Woodburn - CurBid: 1000 -> Bid to make: 1300 -> Sell price 1700 -> Minus EA tax: 1615 -> Est. Profit: 315
+[05:38:30 PM] Time cutoff exceeded - researching
+[05:39:33 PM] Red popup (all good): bid status changed, auction data will be upddated
+[05:40:03 PM] Red popup (all good): bid status changed, auction data will be upddated
+[05:40:18 PM] Red popup (all good): bid status changed, auction data will be upddated
+[05:40:33 PM] BID 14: Baiaram - CurBid: 300 -> Bid to make: 350 -> Sell price 700 -> Minus EA tax: 665 -> Est. Profit: 315
+[05:40:54 PM] BID 15: Henen - CurBid: 600 -> Bid to make: 650 -> Sell price 1000 -> Minus EA tax: 950 -> Est. Profit: 300
+[05:41:39 PM] Red popup (all good): bid status changed, auction data will be upddated
+[05:42:24 PM] Red popup (all good): bid status changed, auction data will be upddated
+[05:42:34 PM] Time cutoff exceeded - researching
+[06:08:44 PM]  - - - - Bot started - - - - 
+[06:10:05 PM] Autobidder started
+[06:10:05 PM] Fetching futbin prices (new version)... 
+[06:14:08 PM] No results box, should close out the tab now
+[06:14:08 PM] Finished fetching futbin prices, hopefully it worked - check targetplayers.txt
+[06:15:15 PM] BID 2: Otele - CurBid: 550 -> Bid to make: 1000 -> Sell price 1400 -> Minus EA tax: 1330 -> Est. Profit: 330
+[06:15:36 PM] BID 3: Babayan - CurBid: 400 -> Bid to make: 550 -> Sell price 900 -> Minus EA tax: 855 -> Est. Profit: 305
+[06:16:45 PM] BID 4: Henen - CurBid: 400 -> Bid to make: 650 -> Sell price 1000 -> Minus EA tax: 950 -> Est. Profit: 300
+[06:17:06 PM] BID 5: Ocansey - CurBid: 300 -> Bid to make: 350 -> Sell price 700 -> Minus EA tax: 665 -> Est. Profit: 315
+[06:17:18 PM] BID 6: Gümüşkaya - CurBid: 300 -> Bid to make: 500 -> Sell price 850 -> Minus EA tax: 807 -> Est. Profit: 307
+[06:17:33 PM] Red popup (all good): bid status changed, auction data will be upddated
+[06:17:48 PM] BID 7: Ampomah - CurBid: 600 -> Bid to make: 1100 -> Sell price 1500 -> Minus EA tax: 1425 -> Est. Profit: 325
+[06:18:09 PM] BID 8: Pich - CurBid: 350 -> Bid to make: 650 -> Sell price 1000 -> Minus EA tax: 950 -> Est. Profit: 300
+[06:18:39 PM] BID 9: Obermair - CurBid: 450 -> Bid to make: 900 -> Sell price 1300 -> Minus EA tax: 1235 -> Est. Profit: 335
+[06:19:00 PM] BID 10: N'Dri - CurBid: 600 -> Bid to make: 800 -> Sell price 1200 -> Minus EA tax: 1140 -> Est. Profit: 340
+[06:19:12 PM] BID 11: Mukairu - CurBid: 300 -> Bid to make: 350 -> Sell price 700 -> Minus EA tax: 665 -> Est. Profit: 315
+[06:19:43 PM] BID 12: Costache - CurBid: 300 -> Bid to make: 500 -> Sell price 850 -> Minus EA tax: 807 -> Est. Profit: 307
+[06:20:07 PM] Time cutoff exceeded - researching
+[06:20:37 PM] BID 13: Živec - CurBid: 350 -> Bid to make: 400 -> Sell price 750 -> Minus EA tax: 712 -> Est. Profit: 312
+[06:21:34 PM] Red popup (all good): failed bid - item removed from transfer targets - all good
+[06:21:52 PM] Red popup (all good): can't remove item from transfer targets popup, gonna continue
+[06:22:25 PM] Red popup (all good): can't remove item from transfer targets popup, gonna continue
+[06:22:55 PM] BID 14: Ramizi - CurBid: 350 -> Bid to make: 650 -> Sell price 1000 -> Minus EA tax: 950 -> Est. Profit: 300
+[06:23:16 PM] BID 15: Boateng - CurBid: 550 -> Bid to make: 700 -> Sell price 1100 -> Minus EA tax: 1045 -> Est. Profit: 345
+[06:23:28 PM] BID 16: Obermair - CurBid: 400 -> Bid to make: 900 -> Sell price 1300 -> Minus EA tax: 1235 -> Est. Profit: 335
+[06:23:58 PM] BID 17: Dauda - CurBid: 600 -> Bid to make: 800 -> Sell price 1200 -> Minus EA tax: 1140 -> Est. Profit: 340
+[06:24:37 PM] Time cutoff exceeded - researching
+[06:25:02 PM] BID 18: Limnios - CurBid: 900 -> Bid to make: 1000 -> Sell price 1400 -> Minus EA tax: 1330 -> Est. Profit: 330
+[06:25:50 PM] Made over 50 requests, stopping, keepgoing = False
+[06:25:50 PM] Total Bids made: 17 Requests: 51
+[06:25:50 PM] Margin: 300
+[06:26:02 PM] Players sold: 0
+[06:26:02 PM] Players expired: 0
+[06:26:02 PM] Players currently listed: 15
+[06:26:02 PM] Players unlisted: 3
+[06:26:08 PM] Going to watchlist
+[06:28:38 PM] LOST PID: 67746267695357 NAME: Gümüşkaya SOLDPRICE: 700 POSITION: LM
+[06:28:38 PM] LOST PID: 66786658672664 NAME: Henen SOLDPRICE: 700 POSITION: LM
+[06:28:38 PM] LOST PID: 66716061654865 NAME: Ramizi SOLDPRICE: 800 POSITION: LM
+[06:28:38 PM] LOST PID: 65746363683859 NAME: Živec SOLDPRICE: 450 POSITION: LM
+[06:28:38 PM] LOST PID: 69886360735768 NAME: N'Dri SOLDPRICE: 850 POSITION: LM
+[06:28:38 PM] LOST PID: 67846359725166 NAME: Ocansey SOLDPRICE: 400 POSITION: LM
+[06:28:38 PM] LOST PID: 66795761684264 NAME: Babayan SOLDPRICE: 650 POSITION: LM
+[06:28:38 PM] Cleared expired
+[06:28:41 PM] Players won: 9 expired: 0
+[06:28:50 PM] LIST NAME Dauda | Bought for: 800 | Sell for (UNDERCUT): 1100 | PROF: 245.0
+[06:28:56 PM] LIST NAME Boateng | Bought for: 700 | Sell for (UNDERCUT): 1000 | PROF: 250.0
+[06:29:05 PM] LIST NAME Otele | Bought for: 1000 | Sell for (UNDERCUT): 1300 | PROF: 235.0
+[06:29:14 PM] LIST NAME Limnios | Bought for: 1000 | Sell for (UNDERCUT): 1300 | PROF: 235.0
+[06:29:23 PM] LIST NAME Obermair | Bought for: 900 | Sell for (UNDERCUT): 1200 | PROF: 240.0
+[06:29:29 PM] LIST NAME Ampomah | Bought for: 1100 | Sell for (UNDERCUT): 1400 | PROF: 230.0
+[06:29:38 PM] LIST NAME Costache | Bought for: 500 | Sell for (UNDERCUT): 800 | PROF: 260.0
+[06:29:47 PM] LIST NAME Mukairu | Bought for: 350 | Sell for (UNDERCUT): 650 | PROF: 267.5
+[06:29:47 PM] - - - - STATISTICS ROUND 1- - -
+[06:29:47 PM] Bids Made: 17 | Requests Made: 51
+[06:29:47 PM] Players won: 9 | Lost: 0
+[06:29:47 PM] Projected profit: 1962 | Prof per player: 218
+[06:29:47 PM]  - - - - - - - - - - - -
+[06:29:54 PM] Finished bidround 0
+[06:29:54 PM] 
+[06:29:57 PM] Sleeping for 8
+[06:30:06 PM] Fetching futbin prices (new version)... 
+[06:33:57 PM] No results box, should close out the tab now
+[06:33:57 PM] Finished fetching futbin prices, hopefully it worked - check targetplayers.txt
+[06:34:33 PM] Red popup (all good): bid status changed, auction data will be upddated
+[06:35:27 PM] Red popup (all good): bid status changed, auction data will be upddated
+[06:35:49 PM] BID 2: Saito - CurBid: 650 -> Bid to make: 1100 -> Sell price 1500 -> Minus EA tax: 1425 -> Est. Profit: 325
+[06:36:43 PM] BID 3: Luis Rioja - CurBid: 850 -> Bid to make: 1600 -> Sell price 2000 -> Minus EA tax: 1900 -> Est. Profit: 300
+[06:36:58 PM] BID 4: Rodrigo Gomes - CurBid: 700 -> Bid to make: 1000 -> Sell price 1400 -> Minus EA tax: 1330 -> Est. Profit: 330
+[06:37:28 PM] Time cutoff exceeded - researching
+[06:38:43 PM] Red popup (all good): can't remove item from transfer targets popup, gonna continue
+[06:39:28 PM] Red popup (all good): bid status changed, auction data will be upddated
+[06:39:58 PM] BID 5: Limnios - CurBid: 900 -> Bid to make: 1000 -> Sell price 1400 -> Minus EA tax: 1330 -> Est. Profit: 330
+[06:40:59 PM] BID 6: Dauda - CurBid: 600 -> Bid to make: 800 -> Sell price 1200 -> Minus EA tax: 1140 -> Est. Profit: 340
+[06:41:11 PM] BID 7: Durmuş - CurBid: 400 -> Bid to make: 700 -> Sell price 1100 -> Minus EA tax: 1045 -> Est. Profit: 345
+[06:41:35 PM] BID 8: Ramizi - CurBid: 200 -> Bid to make: 650 -> Sell price 1000 -> Minus EA tax: 950 -> Est. Profit: 300
+[06:41:56 PM] BID 9: Sosa - CurBid: 250 -> Bid to make: 350 -> Sell price 700 -> Minus EA tax: 665 -> Est. Profit: 315
+[06:42:17 PM] Time cutoff exceeded - researching
+[06:42:41 PM] BID 10: Ramizi - CurBid: 400 -> Bid to make: 650 -> Sell price 1000 -> Minus EA tax: 950 -> Est. Profit: 300
+[06:43:29 PM] Made over 50 requests, stopping, keepgoing = False
+[06:43:29 PM] Total Bids made: 9 Requests: 51
+[06:43:29 PM] Margin: 300
+[06:43:41 PM] Players sold: 3
+[06:43:41 PM] Players expired: 1
+[06:43:41 PM] Players currently listed: 19
+[06:43:41 PM] Players unlisted: 4
+[06:43:44 PM] SOLD PID: 65875658672766 NAME: Otele SOLDPRICE: 1300 POSITION: LM
+[06:43:44 PM] SOLD PID: 70726765733958 NAME: Limnios SOLDPRICE: 1300 POSITION: LM
+[06:43:44 PM] SOLD PID: 67846359703263 NAME: Mukairu SOLDPRICE: 650 POSITION: LM
+[06:43:56 PM] RELIST PID: 78636673717680 NAME: Halstenberg RELISTPRICE: 850 POSITION: CB
+[06:44:20 PM] Going to watchlist
+[06:46:36 PM] LOST PID: 70726765733958 NAME: Limnios SOLDPRICE: 1200 POSITION: LM
+[06:46:36 PM] LOST PID: 68806362684861 NAME: Sosa SOLDPRICE: 600 POSITION: LM
+[06:46:36 PM] LOST PID: 66716061654865 NAME: Ramizi SOLDPRICE: 700 POSITION: LM
+[06:46:36 PM] LOST PID: 66716061654865 NAME: Ramizi SOLDPRICE: 700 POSITION: LM
+[06:46:36 PM] Cleared expired
+[06:46:39 PM] Players won: 6 expired: 0
+[06:46:48 PM] LIST NAME Luis Rioja | Bought for: 1600 | Sell for (UNDERCUT): 1900 | PROF: 205.0
+[06:46:57 PM] LIST NAME Dauda | Bought for: 800 | Sell for (UNDERCUT): 1100 | PROF: 245.0
+[06:47:03 PM] LIST NAME Saito | Bought for: 1100 | Sell for (UNDERCUT): 1400 | PROF: 230.0
+[06:47:12 PM] LIST NAME Durmuş | Bought for: 700 | Sell for (UNDERCUT): 1000 | PROF: 250.0
+[06:47:21 PM] LIST NAME Rodrigo Gomes | Bought for: 1000 | Sell for (UNDERCUT): 1300 | PROF: 235.0
+[06:47:21 PM] - - - - STATISTICS ROUND 2- - -
+[06:47:21 PM] Bids Made: 9 | Requests Made: 51
+[06:47:21 PM] Players won: 6 | Lost: 0
+[06:47:21 PM] Projected profit: 1165 | Prof per player: 194
+[06:47:21 PM]  - - - - - - - - - - - -
+[06:47:27 PM] Finished bidround 1
+[06:47:27 PM] 
+[06:47:30 PM] - - - - FINISHED ALL BID ROUNDS - - - 
+[06:47:30 PM] Bot stopped
+[07:19:24 PM] Autobidder started
+[07:19:24 PM] Fetching futbin prices (new version)... 
+[07:20:21 PM]  - - - - Bot started - - - - 
+[07:21:00 PM] Autobidder started
+[07:21:00 PM] Fetching futbin prices (new version)... 
+[07:25:09 PM] No results box, should close out the tab now
+[07:25:09 PM] Finished fetching futbin prices, hopefully it worked - check targetplayers.txt
+[07:25:27 PM] Red popup (all good): bid status changed, auction data will be upddated
+[07:25:42 PM] BID 2: Kochergin - CurBid: 300 -> Bid to make: 1100 -> Sell price 1500 -> Minus EA tax: 1425 -> Est. Profit: 325
+[07:27:16 PM] BID 3: Podgórski - CurBid: 450 -> Bid to make: 550 -> Sell price 900 -> Minus EA tax: 855 -> Est. Profit: 305
+[07:27:31 PM] BID 4: Lenis - CurBid: 300 -> Bid to make: 500 -> Sell price 850 -> Minus EA tax: 807 -> Est. Profit: 307
+[07:28:07 PM] BID 5: Podgórski - CurBid: 400 -> Bid to make: 550 -> Sell price 900 -> Minus EA tax: 855 -> Est. Profit: 305
+[07:28:28 PM] Red popup (all good): bid status changed, auction data will be upddated
+[07:28:37 PM] Time cutoff exceeded - researching
+[07:29:10 PM] BID 6: Berden - CurBid: 750 -> Bid to make: 800 -> Sell price 1200 -> Minus EA tax: 1140 -> Est. Profit: 340
+[07:29:37 PM] Red popup (all good): bid status changed, auction data will be upddated
+[07:30:10 PM] Red popup (all good): can't remove item from transfer targets popup, gonna continue
+[07:31:04 PM] BID 7: Guilherme - CurBid: 1400 -> Bid to make: 1500 -> Sell price 1900 -> Minus EA tax: 1805 -> Est. Profit: 305
+[07:31:26 PM] BID 8: Tibbling - CurBid: 450 -> Bid to make: 1000 -> Sell price 1400 -> Minus EA tax: 1330 -> Est. Profit: 330
+[07:31:59 PM] Time cutoff exceeded - researching
+[07:33:11 PM] Red popup (all good): failed bid - item removed from transfer targets - all good
+[07:33:29 PM] Red popup (all good): can't remove item from transfer targets popup, gonna continue
+[07:34:14 PM] BID 9: Espinoza - CurBid: 300 -> Bid to make: 500 -> Sell price 850 -> Minus EA tax: 807 -> Est. Profit: 307
+[07:34:35 PM] BID 10: Azarkan - CurBid: 700 -> Bid to make: 800 -> Sell price 1200 -> Minus EA tax: 1140 -> Est. Profit: 340
+[07:34:50 PM] BID 11: Amoo - CurBid: 700 -> Bid to make: 1400 -> Sell price 1800 -> Minus EA tax: 1710 -> Est. Profit: 310
+[07:35:05 PM] Time cutoff exceeded - researching
+[07:35:29 PM] BID 12: Cadu - CurBid: 1500 -> Bid to make: 1600 -> Sell price 2000 -> Minus EA tax: 1900 -> Est. Profit: 300
+[07:35:44 PM] Made over 50 requests, stopping, keepgoing = False
+[07:35:44 PM] Total Bids made: 11 Requests: 51
+[07:35:44 PM] Margin: 300
+[07:35:56 PM] Players sold: 2
+[07:35:56 PM] Players expired: 2
+[07:35:56 PM] Players currently listed: 12
+[07:35:56 PM] Players unlisted: 2
+[07:35:59 PM] SOLD PID: 68786263712355 NAME: Saito SOLDPRICE: 1400 POSITION: LM
+[07:35:59 PM] SOLD PID: 68766461696365 NAME: Obermair SOLDPRICE: 1200 POSITION: LM
+[07:36:08 PM] RELIST PID: 67826359694165 NAME: Ampomah RELISTPRICE: 1200 POSITION: LM
+[07:36:17 PM] RELIST PID: 67846260662966 NAME: Costache RELISTPRICE: 700 POSITION: LM
+[07:36:44 PM] Going to watchlist
+[07:39:21 PM] LOST PID: 71806466713662 NAME: Lenis SOLDPRICE: 550 POSITION: RM
+[07:39:21 PM] LOST PID: 66835754742353 NAME: Azarkan SOLDPRICE: 850 POSITION: RM
+[07:39:21 PM] LOST PID: 66835756742559 NAME: Amoo SOLDPRICE: 1600 POSITION: RM
+[07:39:21 PM] LOST PID: 65635463675261 NAME: Tibbling SOLDPRICE: 1200 POSITION: RM
+[07:39:24 PM] Cleared expired
+[07:39:24 PM] Players won: 8 expired: 0
+[07:39:33 PM] LIST NAME Guilherme | Bought for: 1500 | Sell for (UNDERCUT): 1800 | PROF: 210.0
+[07:39:42 PM] LIST NAME Cadu | Bought for: 1600 | Sell for (UNDERCUT): 1900 | PROF: 205.0
+[07:39:51 PM] LIST NAME Espinoza | Bought for: 500 | Sell for (UNDERCUT): 800 | PROF: 260.0
+[07:39:57 PM] LIST NAME Pich | Bought for: 650 | Sell for (UNDERCUT): 950 | PROF: 252.5
+[07:40:06 PM] LIST NAME Berden | Bought for: 800 | Sell for (UNDERCUT): 1100 | PROF: 245.0
+[07:40:15 PM] LIST NAME Kochergin | Bought for: 1100 | Sell for (UNDERCUT): 1400 | PROF: 230.0
+[07:40:21 PM] LIST NAME Podgórski | Bought for: 550 | Sell for (UNDERCUT): 850 | PROF: 257.5
+[07:40:24 PM] - - - - STATISTICS ROUND 1- - -
+[07:40:24 PM] Bids Made: 11 | Requests Made: 51
+[07:40:24 PM] Players won: 8 | Lost: 0
+[07:40:24 PM] Projected profit: 1660 | Prof per player: 207
+[07:40:24 PM]  - - - - - - - - - - - -
+[07:40:27 PM] Finished bidround 0
+[07:40:27 PM] 
+[07:40:33 PM] Sleeping for 8
+[07:40:39 PM] Fetching futbin prices (new version)... 
+[07:44:34 PM] No results box, should close out the tab now
+[07:44:34 PM] Finished fetching futbin prices, hopefully it worked - check targetplayers.txt
+[07:44:52 PM] BID 2: Tajouri-Shradi - CurBid: 250 -> Bid to make: 350 -> Sell price 700 -> Minus EA tax: 665 -> Est. Profit: 315
+[07:46:25 PM] BID 3: Ibrahimaj - CurBid: 350 -> Bid to make: 1100 -> Sell price 1500 -> Minus EA tax: 1425 -> Est. Profit: 325
+[07:46:37 PM] BID 4: Narsingh - CurBid: 500 -> Bid to make: 650 -> Sell price 1000 -> Minus EA tax: 950 -> Est. Profit: 300
+[07:47:07 PM] BID 5: Redes - CurBid: 300 -> Bid to make: 350 -> Sell price 700 -> Minus EA tax: 665 -> Est. Profit: 315
+[07:47:29 PM] BID 6: Podgórski - CurBid: 350 -> Bid to make: 550 -> Sell price 900 -> Minus EA tax: 855 -> Est. Profit: 305
+[07:47:59 PM] BID 7: Podgórski - CurBid: 300 -> Bid to make: 550 -> Sell price 900 -> Minus EA tax: 855 -> Est. Profit: 305
+[07:48:14 PM] Time cutoff exceeded - researching
+[07:49:17 PM] Red popup (all good): bid status changed, auction data will be upddated
+[07:49:32 PM] Red popup (all good): bid status changed, auction data will be upddated
+[07:50:05 PM] Red popup (all good): can't remove item from transfer targets popup, gonna continue
+[07:51:08 PM] Time cutoff exceeded - researching
+[07:52:54 PM] BID 8: Clemens - CurBid: 300 -> Bid to make: 600 -> Sell price 950 -> Minus EA tax: 902 -> Est. Profit: 302
+[07:53:39 PM] BID 9: Goiginger - CurBid: 300 -> Bid to make: 650 -> Sell price 1000 -> Minus EA tax: 950 -> Est. Profit: 300
+[07:54:03 PM] Made over 50 requests, stopping, keepgoing = False
+[07:54:03 PM] Total Bids made: 8 Requests: 51
+[07:54:03 PM] Margin: 300
+[07:54:15 PM] Players sold: 4
+[07:54:15 PM] Players expired: 8
+[07:54:15 PM] Players currently listed: 9
+[07:54:15 PM] Players unlisted: 2
+[07:54:18 PM] SOLD PID: 78636673717680 NAME: Halstenberg SOLDPRICE: 850 POSITION: CB
+[07:54:18 PM] SOLD PID: 68696665715868 NAME: Meram SOLDPRICE: 900 POSITION: LM
+[07:54:18 PM] SOLD PID: 67826359694165 NAME: Ampomah SOLDPRICE: 1200 POSITION: LM
+[07:54:18 PM] SOLD PID: 66786658672664 NAME: Henen SOLDPRICE: 1000 POSITION: LM
+[07:54:30 PM] RELIST PID: 67846260662966 NAME: Costache RELISTPRICE: 750 POSITION: LM
+[07:54:36 PM] RELIST PID: 66786658672664 NAME: Henen RELISTPRICE: 900 POSITION: LM
+[07:54:45 PM] RELIST PID: 66716061654865 NAME: Ramizi RELISTPRICE: 900 POSITION: LM
+[07:57:13 PM] Going to watchlist
+[07:58:31 PM] LOST PID: 67776566665161 NAME: Clemens SOLDPRICE: 800 POSITION: RM
+[07:58:31 PM] LOST PID: 66796162674558 NAME: Redes SOLDPRICE: 400 POSITION: RM
+[07:58:31 PM] LOST PID: 65776061616173 NAME: Podgórski SOLDPRICE: 450 POSITION: RM
+[07:58:31 PM] LOST PID: 70827063743356 NAME: Tajouri-Shradi SOLDPRICE: 400 POSITION: RM
+[07:58:31 PM] LOST PID: 67805963702552 NAME: Narsingh SOLDPRICE: 750 POSITION: RM
+[07:58:31 PM] LOST PID: 67796064675569 NAME: Ibrahimaj SOLDPRICE: 1200 POSITION: RM
+[07:58:31 PM] Cleared expired
+[07:58:34 PM] Players won: 3 expired: 0
+[07:58:43 PM] LIST NAME Goiginger | Bought for: 650 | Sell for (UNDERCUT): 950 | PROF: 252.5
+[07:58:52 PM] LIST NAME Podgórski | Bought for: 450 | Sell for (UNDERCUT): 850 | PROF: 357.5
+[07:58:52 PM] - - - - STATISTICS ROUND 2- - -
+[07:58:52 PM] Bids Made: 8 | Requests Made: 51
+[07:58:52 PM] Players won: 3 | Lost: 0
+[07:58:52 PM] Projected profit: 610 | Prof per player: 203
+[07:58:52 PM]  - - - - - - - - - - - -
+[07:58:55 PM] Finished bidround 1
+[07:58:55 PM] 
+[07:58:58 PM] - - - - FINISHED ALL BID ROUNDS - - - 
+[07:58:58 PM] Bot stopped
+[06:45:54 PM]  - - - - Bot started - - - - 
+[06:48:24 PM]  - - - - Bot started - - - - 
+[06:51:09 PM] Autobidder started
+[06:51:09 PM] Fetching futbin prices (new version)... 
+[06:51:45 PM] No results box, should close out the tab now
+[06:51:45 PM] Finished fetching futbin prices, hopefully it worked - check targetplayers.txt
+[06:52:57 PM] BID 2: Areola - CurBid: 1000 -> Bid to make: 1100 -> Sell price 1500 -> Minus EA tax: 1425 -> Est. Profit: 325
+[06:53:36 PM] BID 3: Fraser - CurBid: 300 -> Bid to make: 400 -> Sell price 750 -> Minus EA tax: 712 -> Est. Profit: 312
+[06:54:16 PM] BID 4: Wilson - CurBid: 350 -> Bid to make: 450 -> Sell price 800 -> Minus EA tax: 760 -> Est. Profit: 310
+[06:55:37 PM] BID 5: Gabriel Martinelli - CurBid: 800 -> Bid to make: 1300 -> Sell price 1700 -> Minus EA tax: 1615 -> Est. Profit: 315
+[06:55:52 PM] NEXTPAGE ERROR - hitting back and restarting search
+[06:55:52 PM] Time cutoff exceeded - researching
+[06:56:55 PM] BID 6: Daka - CurBid: 1300 -> Bid to make: 1400 -> Sell price 1800 -> Minus EA tax: 1710 -> Est. Profit: 310
+[06:56:55 PM] Coins too low, keepgoing = False
+[06:56:55 PM] Total Bids made: 5 Requests: 26
+[06:56:55 PM] Margin: 300
+[06:57:07 PM] Players sold: 0
+[06:57:07 PM] Players expired: 0
+[06:57:07 PM] Players currently listed: 20
+[06:57:07 PM] Players unlisted: 0
+[06:57:13 PM] Going to watchlist
+[06:58:19 PM] LOST PID: 77907860752470 NAME: Daka SOLDPRICE: 1700 POSITION: ST
+[06:58:22 PM] Cleared expired
+[06:58:25 PM] Players won: 4 expired: 0
+[06:58:31 PM] LIST NAME Areola | Bought for: 1100 | Sell for (UNDERCUT): 1400 | PROF: 230.0
+[06:58:40 PM] LIST NAME Gabriel Martinelli | Bought for: 1300 | Sell for (UNDERCUT): 1600 | PROF: 220.0
+[06:58:49 PM] LIST NAME Fraser | Bought for: 400 | Sell for (UNDERCUT): 700 | PROF: 265.0
+[06:58:49 PM] - - - - STATISTICS ROUND 1- - -
+[06:58:49 PM] Bids Made: 5 | Requests Made: 26
+[06:58:49 PM] Players won: 4 | Lost: 0
+[06:58:49 PM] Projected profit: 715 | Prof per player: 178
+[06:58:49 PM]  - - - - - - - - - - - -
+[06:58:55 PM] Finished bidround 0
+[06:58:55 PM] 
+[06:58:58 PM] Sleeping for 8
+[06:59:07 PM] Fetching futbin prices (new version)... 
+[06:59:43 PM] No results box, should close out the tab now
+[06:59:43 PM] Finished fetching futbin prices, hopefully it worked - check targetplayers.txt
+[07:00:55 PM] BID 2: Fraser - CurBid: 350 -> Bid to make: 400 -> Sell price 750 -> Minus EA tax: 712 -> Est. Profit: 312
+[07:02:23 PM] NEXTPAGE ERROR - hitting back and restarting search
+[07:02:23 PM] Time cutoff exceeded - researching
+[07:04:23 PM] BID 3: Edouard - CurBid: 650 -> Bid to make: 700 -> Sell price 1100 -> Minus EA tax: 1045 -> Est. Profit: 345
+[07:08:17 PM] Made over 50 requests, stopping, keepgoing = False
+[07:08:17 PM] Total Bids made: 2 Requests: 51
+[07:08:17 PM] Margin: 300
+[07:08:29 PM] Players sold: 2
+[07:08:29 PM] Players expired: 0
+[07:08:29 PM] Players currently listed: 22
+[07:08:29 PM] Players unlisted: 0
+[07:08:35 PM] SOLD PID: 81857975845578 NAME: Areola SOLDPRICE: 1400 POSITION: GK
+[07:08:35 PM] SOLD PID: 78877168804568 NAME: Gabriel Martinelli SOLDPRICE: 1600 POSITION: LM
+[07:08:41 PM] Going to watchlist
+[07:09:18 PM] Players won: 3 expired: 0
+[07:09:27 PM] LIST NAME Edouard | Bought for: 700 | Sell for (UNDERCUT): 1000 | PROF: 250.0
+[07:09:36 PM] LIST NAME Fraser | Bought for: 400 | Sell for (UNDERCUT): 700 | PROF: 265.0
+[07:09:36 PM] - - - - STATISTICS ROUND 2- - -
+[07:09:36 PM] Bids Made: 2 | Requests Made: 51
+[07:09:36 PM] Players won: 3 | Lost: 0
+[07:09:36 PM] Projected profit: 515 | Prof per player: 171
+[07:09:36 PM]  - - - - - - - - - - - -
+[07:09:39 PM] Finished bidround 1
+[07:09:39 PM] 
+[07:09:48 PM] - - - - FINISHED ALL BID ROUNDS - - - 
+[07:09:48 PM] Bot stopped
+[09:53:01 PM] Autobidder started
+[09:53:01 PM] Fetching futbin prices (new version)... 
+[09:53:40 PM] No results box, should close out the tab now
+[09:53:40 PM] Finished fetching futbin prices, hopefully it worked - check targetplayers.txt
+[09:57:05 PM] BID 2: Pickford - CurBid: 300 -> Bid to make: 400 -> Sell price 750 -> Minus EA tax: 712 -> Est. Profit: 312
+[10:00:35 PM] Made over 50 requests, stopping, keepgoing = False
+[10:00:35 PM] Total Bids made: 1 Requests: 51
+[10:00:35 PM] Margin: 300
+[10:00:47 PM] Players sold: 0
+[10:00:47 PM] Players expired: 0
+[10:00:47 PM] Players currently listed: 20
+[10:00:47 PM] Players unlisted: 0
+[10:00:53 PM] Going to watchlist
+[10:01:29 PM] LOST PID: 82847787875180 NAME: Pickford SOLDPRICE: 450 POSITION: GK
+[10:01:29 PM] Cleared expired
+[10:01:32 PM] Players won: 0 expired: 0
+[10:01:33 PM] - - - - STATISTICS ROUND 1- - -
+[10:01:33 PM] Bids Made: 1 | Requests Made: 51
+[10:01:33 PM] Players won: 0 | Lost: 0
+[10:01:33 PM] Projected profit: 0 | Prof per player: 0
+[10:01:33 PM]  - - - - - - - - - - - -
+[10:01:36 PM] Finished bidround 0
+[10:01:36 PM] 
+[10:01:39 PM] Sleeping for 8
+[10:01:45 PM] Fetching futbin prices (new version)... 
+[10:02:21 PM] No results box, should close out the tab now
+[10:02:21 PM] Finished fetching futbin prices, hopefully it worked - check targetplayers.txt
+[10:04:30 PM] NEXTPAGE ERROR - hitting back and restarting search
+[10:04:30 PM] Time cutoff exceeded - researching
+[10:09:34 PM] Made over 50 requests, stopping, keepgoing = False
+[10:09:34 PM] Total Bids made: 0 Requests: 51
+[10:09:34 PM] Margin: 300
+[10:09:46 PM] Players sold: 0
+[10:09:46 PM] Players expired: 0
+[10:09:46 PM] Players currently listed: 20
+[10:09:46 PM] Players unlisted: 0
+[10:09:55 PM] Going to watchlist
+[10:10:31 PM] Players won: 0 expired: 0
+[10:10:31 PM] - - - - STATISTICS ROUND 2- - -
+[10:10:31 PM] Bids Made: 0 | Requests Made: 51
+[10:10:31 PM] Players won: 0 | Lost: 0
+[10:10:31 PM] Projected profit: 0 | Prof per player: 0
+[10:10:31 PM]  - - - - - - - - - - - -
+[10:10:37 PM] Finished bidround 1
+[10:10:37 PM] 
+[10:10:40 PM] - - - - FINISHED ALL BID ROUNDS - - - 
+[10:10:40 PM] Bot stopped
+[10:22:11 PM] Autobidder started
+[10:22:20 PM] Players sold: 0
+[10:22:20 PM] Players expired: 0
+[10:22:20 PM] Players currently listed: 20
+[10:22:20 PM] Players unlisted: 0
+[10:22:26 PM] Going to watchlist
+[10:23:05 PM] Players won: 0 expired: 0
+[10:23:05 PM] - - - - STATISTICS ROUND 1- - -
+[10:23:05 PM] Bids Made: 0 | Requests Made: 0
+[10:23:05 PM] Players won: 0 | Lost: 0
+[10:23:05 PM] Projected profit: 0 | Prof per player: 0
+[10:23:05 PM]  - - - - - - - - - - - -
+[10:23:08 PM] Finished bidround 0
+[10:23:08 PM] Short term finished
+[10:23:14 PM] Bot stopped
+[08:04:18 AM] Autobidder started
+[08:04:18 AM] Fetching futbin prices (new version)... 
+[08:04:55 AM] No results box, should close out the tab now
+[08:04:55 AM] Finished fetching futbin prices, hopefully it worked - check targetplayers.txt
+[08:05:31 AM] Autobidder started
+[08:05:31 AM] Fetching futbin prices (new version)... 
+[08:06:10 AM] No results box, should close out the tab now
+[08:06:10 AM] Finished fetching futbin prices, hopefully it worked - check targetplayers.txt
+[08:07:07 AM] BID 2: Henry - CurBid: 650 -> Bid to make: 800 -> Sell price 1200 -> Minus EA tax: 1140 -> Est. Profit: 340
+[08:07:58 AM] NEXTPAGE ERROR - hitting back and restarting search
+[08:08:01 AM] Time cutoff exceeded - researching
+[08:08:40 AM] BID 3: Nélson Semedo - CurBid: 550 -> Bid to make: 650 -> Sell price 1000 -> Minus EA tax: 950 -> Est. Profit: 300
+[08:10:59 AM] NEXTPAGE ERROR - hitting back and restarting search
+[08:10:59 AM] Time cutoff exceeded - researching
+[08:13:53 AM] Made over 50 requests, stopping, keepgoing = False
+[08:13:53 AM] Total Bids made: 2 Requests: 51
+[08:13:53 AM] Margin: 300
+[08:14:05 AM] Players sold: 0
+[08:14:05 AM] Players expired: 0
+[08:14:05 AM] Players currently listed: 19
+[08:14:05 AM] Players unlisted: 0
+[08:14:11 AM] Going to watchlist
+[08:14:47 AM] LOST PID: 80835769807574 NAME: Nélson Semedo SOLDPRICE: 1100 POSITION: RB
+[08:14:47 AM] LOST PID: 75904059747072 NAME: Henry SOLDPRICE: 850 POSITION: LB
+[08:14:47 AM] Cleared expired
+[08:14:50 AM] Players won: 0 expired: 0
+[08:14:50 AM] - - - - STATISTICS ROUND 1- - -
+[08:14:50 AM] Bids Made: 2 | Requests Made: 51
+[08:14:50 AM] Players won: 0 | Lost: 0
+[08:14:50 AM] Projected profit: 0 | Prof per player: 0
+[08:14:50 AM]  - - - - - - - - - - - -
+[08:14:53 AM] Finished bidround 0
+[08:14:53 AM] 
+[08:14:56 AM] Sleeping for 8
+[08:15:02 AM] Fetching futbin prices (new version)... 
+[08:15:41 AM] No results box, should close out the tab now
+[08:15:41 AM] Finished fetching futbin prices, hopefully it worked - check targetplayers.txt
+[08:16:14 AM] BID 2: Mbabu - CurBid: 600 -> Bid to make: 650 -> Sell price 1000 -> Minus EA tax: 950 -> Est. Profit: 300
+[08:19:18 AM] BID 3: Gabriel Martinelli - CurBid: 600 -> Bid to make: 700 -> Sell price 1100 -> Minus EA tax: 1045 -> Est. Profit: 345
+[08:20:36 AM] NEXTPAGE ERROR - hitting back and restarting search
+[08:20:36 AM] Time cutoff exceeded - researching
+[08:22:09 AM] Red popup (all good): bid status changed, auction data will be upddated
+[08:22:33 AM] NEXTPAGE ERROR - hitting back and restarting search
+[08:22:33 AM] Time cutoff exceeded - researching
+[08:23:24 AM] Made over 50 requests, stopping, keepgoing = False
+[08:23:24 AM] Total Bids made: 2 Requests: 51
+[08:23:24 AM] Margin: 300
+[08:23:36 AM] Players sold: 0
+[08:23:36 AM] Players expired: 0
+[08:23:36 AM] Players currently listed: 19
+[08:23:36 AM] Players unlisted: 0
+[08:23:42 AM] Going to watchlist
+[08:24:15 AM] LOST PID: 78877168804568 NAME: Gabriel Martinelli SOLDPRICE: 750 POSITION: LM
+[08:24:15 AM] LOST PID: 77835166717381 NAME: Mbabu SOLDPRICE: 700 POSITION: RB
+[08:24:18 AM] Cleared expired
+[08:24:21 AM] Players won: 0 expired: 0
+[08:24:21 AM] - - - - STATISTICS ROUND 2- - -
+[08:24:21 AM] Bids Made: 2 | Requests Made: 51
+[08:24:21 AM] Players won: 0 | Lost: 0
+[08:24:21 AM] Projected profit: 0 | Prof per player: 0
+[08:24:21 AM]  - - - - - - - - - - - -
+[08:24:24 AM] Finished bidround 1
+[08:24:24 AM] 
+[08:24:30 AM] - - - - FINISHED ALL BID ROUNDS - - - 
+[08:24:30 AM] Bot stopped
+[08:50:20 AM]  - - - - Bot started - - - - 
+[08:51:02 AM] Autobidder started
+[08:51:11 AM] Players sold: 0
+[08:51:11 AM] Players expired: 0
+[08:51:11 AM] Players currently listed: 14
+[08:51:11 AM] Players unlisted: 0
+[08:51:17 AM] Going to watchlist
+[08:51:53 AM] Players won: 0 expired: 0
+[08:51:53 AM] - - - - STATISTICS ROUND 1- - -
+[08:51:53 AM] Bids Made: 0 | Requests Made: 0
+[08:51:53 AM] Players won: 0 | Lost: 0
+[08:51:53 AM] Projected profit: 0 | Prof per player: 0
+[08:51:53 AM]  - - - - - - - - - - - -
+[08:51:59 AM] Finished bidround 0
+[08:51:59 AM] Short term finished
+[08:52:11 AM] Exception retrying go_transfer_market
+[08:52:11 AM] Bot stopped
+[08:52:17 AM] Autobidder started
+[08:52:20 AM] Fetching futbin prices (new version)... 
+[08:53:47 AM] No results box, should close out the tab now
+[08:53:47 AM] Finished fetching futbin prices, hopefully it worked - check targetplayers.txt
+[08:54:20 AM] BID 2: Allan - CurBid: 1000 -> Bid to make: 1100 -> Sell price 1500 -> Minus EA tax: 1425 -> Est. Profit: 325
+[08:58:12 AM] BID 3: Isak - CurBid: 550 -> Bid to make: 600 -> Sell price 950 -> Minus EA tax: 902 -> Est. Profit: 302
+[08:59:45 AM] BID 4: Isak - CurBid: 550 -> Bid to make: 600 -> Sell price 950 -> Minus EA tax: 902 -> Est. Profit: 302
+[09:01:09 AM] Made over 50 requests, stopping, keepgoing = False
+[09:01:09 AM] Total Bids made: 3 Requests: 51
+[09:01:09 AM] Margin: 300
+[09:01:21 AM] Players sold: 0
+[09:01:21 AM] Players expired: 0
+[09:01:21 AM] Players currently listed: 14
+[09:01:21 AM] Players unlisted: 0
+[09:01:27 AM] Going to watchlist
+[09:02:03 AM] LOST PID: 80837968832968 NAME: Isak SOLDPRICE: 650 POSITION: ST
+[09:02:06 AM] Cleared expired
+[09:02:06 AM] Players won: 2 expired: 0
+[09:02:15 AM] LIST NAME Allan | Bought for: 1100 | Sell for (UNDERCUT): 1400 | PROF: 230.0
+[09:02:15 AM] - - - - STATISTICS ROUND 1- - -
+[09:02:15 AM] Bids Made: 3 | Requests Made: 51
+[09:02:15 AM] Players won: 2 | Lost: 0
+[09:02:15 AM] Projected profit: 230 | Prof per player: 115
+[09:02:15 AM]  - - - - - - - - - - - -
+[09:02:21 AM] Finished bidround 0
+[09:02:21 AM] 
+[09:02:30 AM] Sleeping for 8
+[09:02:36 AM] Fetching futbin prices (new version)... 
+[09:04:03 AM] No results box, should close out the tab now
+[09:04:03 AM] Finished fetching futbin prices, hopefully it worked - check targetplayers.txt
+[09:07:34 AM] BID 2: Allan - CurBid: 1000 -> Bid to make: 1100 -> Sell price 1500 -> Minus EA tax: 1425 -> Est. Profit: 325
+[09:10:58 AM] Made over 50 requests, stopping, keepgoing = False
+[09:10:58 AM] Total Bids made: 1 Requests: 51
+[09:10:58 AM] Margin: 300
+[09:11:10 AM] Players sold: 0
+[09:11:10 AM] Players expired: 0
+[09:11:10 AM] Players currently listed: 15
+[09:11:10 AM] Players unlisted: 0
+[09:11:13 AM] Going to watchlist
+[09:11:52 AM] Players won: 2 expired: 0
+[09:11:58 AM] LIST NAME Allan | Bought for: 1100 | Sell for (UNDERCUT): 1400 | PROF: 230.0
+[09:12:01 AM] - - - - STATISTICS ROUND 2- - -
+[09:12:01 AM] Bids Made: 1 | Requests Made: 51
+[09:12:01 AM] Players won: 2 | Lost: 0
+[09:12:01 AM] Projected profit: 230 | Prof per player: 115
+[09:12:01 AM]  - - - - - - - - - - - -
+[09:12:04 AM] Finished bidround 1
+[09:12:04 AM] 
+[09:12:07 AM] - - - - FINISHED ALL BID ROUNDS - - - 
+[09:12:07 AM] Bot stopped
+[09:19:35 AM] Autobidder started
+[09:19:35 AM] Fetching futbin prices (new version)... 
+[09:21:05 AM] No results box, should close out the tab now
+[09:21:05 AM] Finished fetching futbin prices, hopefully it worked - check targetplayers.txt
+[09:21:53 AM] BID 2: Allan - CurBid: 1000 -> Bid to make: 1100 -> Sell price 1500 -> Minus EA tax: 1425 -> Est. Profit: 325
+[09:22:15 AM] BID 3: Wan-Bissaka - CurBid: 600 -> Bid to make: 650 -> Sell price 1000 -> Minus EA tax: 950 -> Est. Profit: 300
+[09:22:45 AM] BID 4: Jiménez - CurBid: 550 -> Bid to make: 650 -> Sell price 1000 -> Minus EA tax: 950 -> Est. Profit: 300
+[09:28:06 AM] NEXTPAGE ERROR - hitting back and restarting search
+[09:28:06 AM] Time cutoff exceeded - researching
+[09:28:54 AM] Made over 50 requests, stopping, keepgoing = False
+[09:28:54 AM] Total Bids made: 3 Requests: 51
+[09:28:54 AM] Margin: 300
+[09:29:06 AM] Players sold: 0
+[09:29:06 AM] Players expired: 0
+[09:29:06 AM] Players currently listed: 16
+[09:29:06 AM] Players unlisted: 0
+[09:29:12 AM] Going to watchlist
+[09:29:49 AM] LOST PID: 80825066757873 NAME: Wan-Bissaka SOLDPRICE: 700 POSITION: RB
+[09:29:49 AM] LOST PID: 82738176804782 NAME: Jiménez SOLDPRICE: 750 POSITION: ST
+[09:29:52 AM] Cleared expired
+[09:29:52 AM] Players won: 2 expired: 0
+[09:30:01 AM] LIST NAME Allan | Bought for: 1100 | Sell for (UNDERCUT): 1400 | PROF: 230.0
+[09:30:01 AM] - - - - STATISTICS ROUND 1- - -
+[09:30:01 AM] Bids Made: 3 | Requests Made: 51
+[09:30:01 AM] Players won: 2 | Lost: 0
+[09:30:01 AM] Projected profit: 230 | Prof per player: 115
+[09:30:01 AM]  - - - - - - - - - - - -
+[09:30:07 AM] Finished bidround 0
+[09:30:07 AM] 
+[09:30:13 AM] Sleeping for 8
+[09:30:22 AM] Fetching futbin prices (new version)... 
+[09:31:49 AM] No results box, should close out the tab now
+[09:31:49 AM] Finished fetching futbin prices, hopefully it worked - check targetplayers.txt
+[09:38:32 AM] Made over 50 requests, stopping, keepgoing = False
+[09:38:32 AM] Total Bids made: 0 Requests: 51
+[09:38:32 AM] Margin: 300
+[09:38:44 AM] Players sold: 0
+[09:38:44 AM] Players expired: 0
+[09:38:44 AM] Players currently listed: 17
+[09:38:44 AM] Players unlisted: 0
+[09:38:50 AM] Going to watchlist
+[09:39:26 AM] Players won: 1 expired: 0
+[09:39:29 AM] - - - - STATISTICS ROUND 2- - -
+[09:39:29 AM] Bids Made: 0 | Requests Made: 51
+[09:39:29 AM] Players won: 1 | Lost: 0
+[09:39:29 AM] Projected profit: 0 | Prof per player: 0
+[09:39:29 AM]  - - - - - - - - - - - -
+[09:39:32 AM] Finished bidround 1
+[09:39:32 AM] 
+[09:39:35 AM] - - - - FINISHED ALL BID ROUNDS - - - 
+[09:39:35 AM] Bot stopped
