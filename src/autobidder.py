@@ -849,18 +849,18 @@ class Autobidder:
 
             if len(stats) == 13:
                 stats = stats[1:len(stats)]
-
+            
             # print(f"card stats: {stats}")
             name = card_details[0].strip("\n")
             rating = card_details[1]
             position = card_details[2]
             price = stats[0]
-            pace = stats[6]
-            shooting = stats[7]
-            passing = stats[8]
-            dribbling = stats[9]
-            defense = stats[10]
-            physical = stats[11]
+            #pace = stats[6]
+            #shooting = stats[7]
+            #passing = stats[8]
+            #dribbling = stats[9]
+            #defense = stats[10]
+            #physical = stats[11]
 
             if "K" in price:
                 price = price.replace("K", "")
