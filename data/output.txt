@@ -845,3 +845,36 @@
 [02:56:09 PM]  - - - - Bot started - - - - 
 [02:56:39 PM] Autobidder started
 [02:56:39 PM] Fetching futbin prices (new version)... 
+[03:17:03 PM]  - - - - Bot started - - - - 
+[03:17:27 PM] Autobidder started
+[03:17:27 PM] Fetching futbin prices (new version)... 
+[03:18:55 PM] No results box, should close out the tab now
+[03:18:55 PM] Finished fetching futbin prices, hopefully it worked - check targetplayers.txt
+[03:19:13 PM] BID 2: Keane - CurBid: 350 -> Bid to make: 450 -> Sell price 800 -> Minus EA tax: 760 -> Est. Profit: 310
+[03:19:52 PM] BID 3: Keane - CurBid: 350 -> Bid to make: 450 -> Sell price 800 -> Minus EA tax: 760 -> Est. Profit: 310
+[03:22:10 PM] BID 4: Koch - CurBid: 600 -> Bid to make: 700 -> Sell price 1100 -> Minus EA tax: 1045 -> Est. Profit: 345
+[03:25:29 PM] Red popup (all good): bid status changed, auction data will be upddated
+[03:25:29 PM] NEXTPAGE ERROR - hitting back and restarting search
+[03:25:35 PM] Time cutoff exceeded - researching
+[03:25:50 PM] NEXTPAGE ERROR - hitting back and restarting search
+[03:25:50 PM] Time cutoff exceeded - researching
+[06:05:17 PM]  - - - - Bot started - - - - 
+[06:05:44 PM] Autobidder started
+[06:05:44 PM] Fetching futbin prices (new version)... 
+[06:07:11 PM] No results box, should close out the tab now
+[06:07:11 PM] Finished fetching futbin prices, hopefully it worked - check targetplayers.txt
+[06:23:33 PM] Autobidder started
+[06:23:55 PM] Autobidder started
+[06:24:25 PM] Autobidder started
+[06:24:25 PM] Fetching futbin prices (new version)... 
+[06:25:56 PM] No results box, should close out the tab now
+[06:25:56 PM] Finished fetching futbin prices, hopefully it worked - check targetplayers.txt
+[06:32:06 PM] Autobidder started
+[06:32:51 PM] Autobidder started
+[06:34:31 PM] Autobidder started
+[06:34:49 PM] Autobidder started
+[06:35:08 PM]  - - - - Bot started - - - - 
+[06:35:38 PM] Autobidder started
+[06:35:38 PM] Fetching futbin prices (new version)... 
+[06:37:09 PM] No results box, should close out the tab now
+[06:37:09 PM] Finished fetching futbin prices, hopefully it worked - check targetplayers.txt

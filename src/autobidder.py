@@ -1503,15 +1503,23 @@ class Autobidder:
                 cardinfo = card.text.splitlines()
                 # print(cardinfo)
 
-                rating, name, startprice, curbid_or_finalsoldprice, buynow, time = cardinfo[
-                    0], cardinfo[2], cardinfo[16], cardinfo[18], cardinfo[20], cardinfo[22]
+                #rating, name, startprice, curbid_or_finalsoldprice, buynow, time = cardinfo[0], cardinfo[2], cardinfo[16], cardinfo[18], cardinfo[20], cardinfo[22]
+                rating = cardinfo[0]
+                name = cardinfo[2]
+                startprice = cardinfo[4]
+                curbid_or_finalsoldprice = cardinfo[6]
+                buynow = cardinfo[8]
+                time = cardinfo[10]
+
+
+
                 position = cardinfo[1]
-                pace = int(cardinfo[4])
-                shooting = int(cardinfo[6])
-                passing = int(cardinfo[8])
-                dribbling = int(cardinfo[10])
-                defending = int(cardinfo[12])
-                physical = int(cardinfo[14])
+                #pace = int(str(cardinfo[4]))
+                #shooting = int(cardinfo[6])
+                #passing = int(cardinfo[8])
+                #dribbling = int(cardinfo[10])
+                #defending = int(cardinfo[12])
+                #physical = int(cardinfo[14])
                 rating = int(rating)
 
                 # clean timeremaining
