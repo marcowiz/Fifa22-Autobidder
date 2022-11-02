@@ -120,3 +120,7 @@ data/gui_logs.txt
 .vscode/settings.json
 
 src/ignore.py
+data/logs.csv
+data/bid_rounds.txt
+data/output.txt
+data/targetplayers.txt

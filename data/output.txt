@@ -878,3 +878,40 @@
 [06:35:38 PM] Fetching futbin prices (new version)... 
 [06:37:09 PM] No results box, should close out the tab now
 [06:37:09 PM] Finished fetching futbin prices, hopefully it worked - check targetplayers.txt
+[10:12:05 AM]  - - - - Bot started - - - - 
+[10:12:33 AM] Autobidder started
+[10:12:33 AM] Fetching futbin prices (new version)... 
+[10:14:06 AM] No results box, should close out the tab now
+[10:14:06 AM] Finished fetching futbin prices, hopefully it worked - check targetplayers.txt
+[10:15:15 AM]  - - - - Bot started - - - - 
+[10:15:36 AM] Autobidder started
+[10:15:39 AM] Fetching futbin prices (new version)... 
+[10:17:06 AM] No results box, should close out the tab now
+[10:17:06 AM] Finished fetching futbin prices, hopefully it worked - check targetplayers.txt
+[10:27:13 AM]  - - - - Bot started - - - - 
+[10:27:40 AM] Autobidder started
+[10:27:40 AM] Fetching futbin prices (new version)... 
+[10:29:11 AM] No results box, should close out the tab now
+[10:29:11 AM] Finished fetching futbin prices, hopefully it worked - check targetplayers.txt
+[10:33:14 AM] NEXTPAGE ERROR - hitting back and restarting search
+[10:33:14 AM] Time cutoff exceeded - researching
+[10:36:09 AM] Made over 50 requests, stopping, keepgoing = False
+[10:36:09 AM] Total Bids made: 0 Requests: 51
+[10:36:09 AM] Margin: 300
+[10:36:21 AM] Players sold: 0
+[10:36:21 AM] Players expired: 0
+[10:36:21 AM] Players currently listed: 27
+[10:36:21 AM] Players unlisted: 0
+[10:36:27 AM] Going to watchlist
+[10:37:03 AM] Players won: 0 expired: 0
+[10:37:03 AM] - - - - STATISTICS ROUND 1- - -
+[10:37:03 AM] Bids Made: 0 | Requests Made: 51
+[10:37:03 AM] Players won: 0 | Lost: 0
+[10:37:03 AM] Projected profit: 0 | Prof per player: 0
+[10:37:03 AM]  - - - - - - - - - - - -
+[10:37:09 AM] Finished bidround 0
+[10:37:09 AM] 
+[10:37:12 AM] Sleeping for 8
+[10:37:18 AM] Fetching futbin prices (new version)... 
+[10:38:49 AM] No results box, should close out the tab now
+[10:38:49 AM] Finished fetching futbin prices, hopefully it worked - check targetplayers.txt

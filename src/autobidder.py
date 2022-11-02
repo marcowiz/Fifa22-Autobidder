@@ -1510,10 +1510,18 @@ class Autobidder:
                 curbid_or_finalsoldprice = cardinfo[6]
                 buynow = cardinfo[8]
                 time = cardinfo[10]
-
-
-
                 position = cardinfo[1]
+
+                #while its not working to get the values i set them to 0
+                pace = 0
+                shooting = 0
+                passing = 0
+                dribbling = 0
+                defending = 0
+                physical = 0
+                rating = int(rating)
+
+                #position = cardinfo[1]
                 #pace = int(str(cardinfo[4]))
                 #shooting = int(cardinfo[6])
                 #passing = int(cardinfo[8])
